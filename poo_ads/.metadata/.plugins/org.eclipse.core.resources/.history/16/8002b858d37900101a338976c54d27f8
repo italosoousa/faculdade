@@ -1,0 +1,9 @@
+package aula3;
+
+public class Pessoa {
+	
+	public String nome;
+	public int telefone;
+	public String endereco;
+
+}

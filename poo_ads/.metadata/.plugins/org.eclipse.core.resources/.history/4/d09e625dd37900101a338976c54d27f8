@@ -1,0 +1,8 @@
+package aula3;
+
+public class Pf {
+	
+	public int cpf;
+	public int dataNascimento;
+
+}
